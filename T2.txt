@@ -1,0 +1,1 @@
+As a manager, I want to Approve stock requests, So that I can send items from warehouse to shop.
